@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Complex</title>
+
+    <style>
+        table, td, th {
+            border: 1px solid black;
+            text-align: left;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            text-transform: capitalize;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr {background-color: yellowgreen;}
+        tr:nth-child(even){background-color: white;}
+        th:nth-child(4){text-transform: none;}
+        tr:nth-child(1){
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    
+    
+    <h1 id="head">Grocery Shop</h1>
+    
+    
+   
+        
+
+    <div id="demo">
+<button onclick="ajax();">Get the Shopping List</button>
+<p id="showData"></p>
+
+<p id="msg"></p>
+
+    </div>
+    <script src="./ajax.js"></script>
+</body>
+</html>

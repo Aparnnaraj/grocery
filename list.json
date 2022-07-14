@@ -1,0 +1,193 @@
+{
+    "shoppinglist" : [
+        {
+            "ItemNo" : "1",
+            "Item" : "Comfort Shine",
+            "Quantity" : "3",
+            "Unit" : "Nos",
+            "Department" :"Detergent",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "2",
+            "Item" : "Sunlight Powder",
+            "Quantity" : "2",
+            "Unit" : "Nos",
+            "Department" :"Detergent",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "3",
+            "Item" : "Dr Wash",
+            "Quantity" : "12",
+            "Unit" : "Nos",
+            "Department" :"Soaps",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "4",
+            "Item" : "Dove",
+            "Quantity" : "6",
+            "Unit" : "Nos",
+            "Department" :"Soaps",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "5",
+            "Item" : "Sunsilk",
+            "Quantity" : "3",
+            "Unit" : "Nos",
+            "Department" :"Beauty care",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "6",
+            "Item" : "Kaima Rice",
+            "Quantity" : "2",
+            "Unit" : "Kg",
+            "Department" :"Rice",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "7",
+            "Item" : "Ghee",
+            "Quantity" : "3",
+            "Unit" : "Nos",
+            "Department" :"Dairy",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "8",
+            "Item" : "Spring Onions",
+            "Quantity" : "0.5",
+            "Unit" : "Kg",
+            "Department" :"Vegetables",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "8",
+            "Item" : "Carrot",
+            "Quantity" : "1",
+            "Unit" : "Kg",
+            "Department" :"Vegetables",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "9",
+            "Item" : "Cabbage",
+            "Quantity" : "2",
+            "Unit" : "Nos",
+            "Department" :"Vegetables",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "10",
+            "Item" : "Cauliflower",
+            "Quantity" : "2",
+            "Unit" : "Nos",
+            "Department" :"Vegetables",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "11",
+            "Item" : "Cornflakes",
+            "Quantity" : "1",
+            "Unit" : "Nos",
+            "Department" :"Cereals",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "12",
+            "Item" : "Lays",
+            "Quantity" : "2",
+            "Unit" : "Nos",
+            "Department" :"Snacks",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "13",
+            "Item" : "Dairy milk",
+            "Quantity" : "3",
+            "Unit" : "Nos",
+            "Department" :"Chocolates",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "14",
+            "Item" : "Galaxy",
+            "Quantity" : "3",
+            "Unit" : "Nos",
+            "Department" :"Chocolates",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "15",
+            "Item" : "Boat speakers",
+            "Quantity" : "1",
+            "Unit" : "Nos",
+            "Department" :"Electronics",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "16",
+            "Item" : "Laptop",
+            "Quantity" : "1",
+            "Unit" : "Nos",
+            "Department" :"Electronics",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "17",
+            "Item" : "Nivea",
+            "Quantity" : "1",
+            "Unit" : "Nos",
+            "Department" :"Beauty care",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "18",
+            "Item" : "Classmate notebook",
+            "Quantity" : "6",
+            "Unit" : "Nos",
+            "Department" :"Stationary",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "19",
+            "Item" : "Cello Gripper",
+            "Quantity" : "3",
+            "Unit" : "Nos",
+            "Department" :"Stationary",
+            "Notes" : "NIL"
+        },
+
+        {
+            "ItemNo" : "20",
+            "Item" : "Scientific Calculator",
+            "Quantity" : "1",
+            "Unit" : "Nos",
+            "Department" :"Stationary",
+            "Notes" : "NIL"
+        }
+
+    ]
+}
